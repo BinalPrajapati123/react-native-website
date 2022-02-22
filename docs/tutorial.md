@@ -53,7 +53,7 @@ The other unusual thing in this code example is `<View><Text>Hello world!</Text>
 
 ## Components
 
-So this code is defining `HelloWorldApp`, a new `Component`. When you're building a React Native app, you'll be making new components a lot. Anything you see on the screen is some sort of component.
+So this code is defining `HelloWorldApp`, a new `Component`. When you're building a React Native app, you'll be making [new components](https://www.bacancytechnology.com/blog/react-native-animation-libraries-and-ui-component) a lot. Anything you see on the screen is some sort of component.
 
 ## Props
 
